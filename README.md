@@ -14,7 +14,6 @@
 
  > Do clone the repo to see the actual website
  Follow the steps:
- - `git clone  https://github.com/ksrrock/Campus_placement_management_system.git`
  - cd into the clone folder.
  - If you are an ubuntu user activate the virtualenv as this
    `source venv/bin/activate`
